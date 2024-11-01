@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+requests
+# thêm bất kỳ thư viện nào khác bạn cần
